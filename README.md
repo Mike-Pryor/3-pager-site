@@ -1,3 +1,3 @@
 # 3-pager-site
-- Clean website with funcional navigation links. 
+- Clean website with working navigation links. 
 - Original design and code is from Brad Traversy.
